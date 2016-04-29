@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40165ucmf_2_0004.png"; bbox 0 0 4928 3824; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 417 2434 801">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 417 2434 801">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 417 2434 801; baseline 0.004 -77"><span class='ocrx_word' id='word_1_1' title='bbox 242 417 1218 801; x_wconf 82' lang='lat' dir='ltr'>Hirschfeld</span> <span class='ocrx_word' id='word_1_2' title='bbox 1285 420 1867 731; x_wconf 80' lang='lat' dir='ltr'>Hirseh</span> <span class='ocrx_word' id='word_1_3' title='bbox 1935 428 2085 731; x_wconf 88' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2432 551 2434 554; x_wconf 89' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 1432 2270 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 1432 2270 2256">
+     <span class='ocr_line' id='line_1_2' title="bbox 244 1432 2270 1968; baseline 0 -224"><span class='ocrx_word' id='word_1_5' title='bbox 244 1449 494 1749; x_wconf 82' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_6' title='bbox 563 1434 741 1746; x_wconf 79' lang='grc'>111</span> <span class='ocrx_word' id='word_1_7' title='bbox 624 1476 1073 1748; x_wconf 65' lang='grc'><strong>1116111</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1072 1536 1353 1747; x_wconf 82' lang='lat' dir='ltr'>ura</span> <span class='ocrx_word' id='word_1_9' title='bbox 1415 1432 2270 1968; x_wconf 78' lang='lat' dir='ltr'>deperdita</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 246 1940 1298 2256; baseline -0.006 -5"><span class='ocrx_word' id='word_1_10' title='bbox 246 1940 1298 2256; x_wconf 81' lang='lat' dir='ltr'>Hebraeorum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 14 32 2468 3800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 14 32 2468 3800">
+     <span class='ocr_line' id='line_1_4' title="bbox 14 32 2468 3800; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 14 32 2468 3800; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 249 2953 1514 3553">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 249 2953 1514 3553">
+     <span class='ocr_line' id='line_1_5' title="bbox 249 2953 1514 3553; baseline -0.01 -281"><span class='ocrx_word' id='word_1_12' title='bbox 249 2953 968 3276; x_wconf 83' lang='lat' dir='ltr'>Berohni</span> <span class='ocrx_word' id='word_1_13' title='bbox 983 2958 1514 3553; x_wconf 78' lang='grc'><strong>1836</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
